@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mikhail Akramov.
+- I'm fullstack NodeJS (+ ReactJS, MongoDB) Developer for 4 years and System Analyst for 1 year.
+- 👀 Now I’m interested in Product Analytics and Data Analytics. Data-driven and sales-first desicisions.
+- 🌱 I’m currently learning Python and SQL
+- 📫 Feel free to ask me in telegram: https://t.me/akramovmv and facebook: https://www.facebook.com/akramovmv or via email: akramovmv@gmail.com
