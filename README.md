@@ -11,3 +11,5 @@
 - 📫 Feel free to ask me in telegram: https://t.me/akramovmv and facebook: https://www.facebook.com/akramovmv or via email: akramovmv@gmail.com
 
 - I'm interested in English and I'm trying to improve my speaking skills. I'm ready for work in foreign company. It's a real challenge for me!
+
+Here you can find my completed test tasks: https://github.com/Griznt/colab_test_tasks
