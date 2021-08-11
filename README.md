@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mikhail Akramov.
-- I'm a fullstack NodeJS (+ ReactJS, MongoDB) Developer for 4 years and System Analyst for 1 year.
+- I used to be the fullstack NodeJS (+ ReactJS, MongoDB) Developer for 4 years and System Analyst for 1 year.
 - Now I'm a Product Analyst for 1 year. I really love it!
 - 👀 Now I’m interested in Product and Data Analytics. Data-driven and sales-first decisions.
 - 🌱 I’m currently learning Python and SQL
