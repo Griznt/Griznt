@@ -8,6 +8,6 @@
 - 🏆 20th place in [careerfactory Product Analysts competition 2021](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)
 - 📫 Feel free to ask me in telegram: https://t.me/akramovmv and facebook: https://www.facebook.com/akramovmv or via email: akramovmv@gmail.com
 
-Find my CV here: https://flowcv.me/akramovmv
+Find my CV here: https://flowcv.me/akramovmike
 
 Here you can find my completed test tasks: https://github.com/Griznt/colab_test_tasks
